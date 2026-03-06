@@ -3,8 +3,9 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: "/portfolio/",   // 👈 correct place
   plugins: [
     react(),
-    tailwindcss(),
+    tailwindcss()
   ],
 })
