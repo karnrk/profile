@@ -24,7 +24,7 @@ const About = () => {
         icon: "fa-solid fa-hexagon-nodes",
         titleNormal: "AI",
         titleHighlight: "Tools",
-        description: "Learning to use AI tools to enhance my skill and knowledge. ChatGPT, Claude, Cursor etc."
+        description: "Practising AI tools to enhance my skill and knowledge. ChatGPT, Claude, Cursor, etc."
       },
       {
         icon: "fa-solid fa-baseball-bat-ball",
