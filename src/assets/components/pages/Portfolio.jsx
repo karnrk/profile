@@ -215,7 +215,7 @@ function Portfolio() {
     <>
       <HeaderSection 
       prefix="Projects" 
-      titlestart="I am worked on these" 
+      titlestart="I worked on these" 
       titleend="Projects"/>
       <Projects projects={projectData}/>
     </>
